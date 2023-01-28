@@ -25,9 +25,10 @@ img{
 
 .tv:hover{
     box-shadow:0px 0px 20px yellow;
-    cursor: pointer;r
+    cursor: pointer;
 }
 
-figcaption {
+figure {
   text-align: center;
+    margin:auto;
 }
