@@ -28,7 +28,7 @@ img{
     cursor: pointer;
 }
 
-figure {
-  text-align: center;
-    margin:auto;
+figcaption {
+    display: block;
+    text-align:center;
 }
