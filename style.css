@@ -28,9 +28,9 @@ img{
     cursor: pointer;
 }
 
-figcaption {
+figcaption, figure {
     text-align: center;
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
